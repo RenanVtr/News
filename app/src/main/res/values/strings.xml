@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="data">29/12/2021</string>
+    <string name="Titulo">Bolsa Volátil</string>
+    <string name="body">O Ibovespa opera, às 13h00, em queda de 0,38%, aos 104.457 pontos..
+        O principal índice da bolsa brasileira é impactado, principalmente, pelas performances
+        das bolsas americanas, que chegaram a abrir em tendência de alta mas passaram a cair após
+        a divulgação de dados macroeconômicos. A curva de juros sobe, com a inflação acelerando,
+        em bloco. Os contratos DI com vencimento em fevereiro de 2023 sobem 60 pontos-base.
+        Os para fevereiro de 2025, 109 pontos-base. Os para 2029, 47 pontos-base.
+        O dólar comercial também avança, subindo 0,57%, negociado a R$ 5,672 tanto na compra
+        quanto na venda. O dólar futuro tem alta de 0 81%, a R$ 5,673.
+        A bolsa brasileira chegou a cair 0,80% mais cedo, mas a queda arrefeceu após a Petrobras
+        (<b>PETR3</b>;<b>PETR4</b>) ter passado a subir levemente, seguindo o preço do petróleo.
+        WTI e Brent sobem, respectivamente, 1,36%, aos US$ 76,93, e 1%, aos US$ 79,79,
+        tendo ganhado tendência de alta após os EUA terem divulgado que o seu estoque da
+            commodity caiu em 3,576 milhões na última semana.
+    </string>
+    <string name="textButtonBack">Anterior</string>
+    <string name="textButtonNext">Próximo</string>
+    <string name="Author">Renan Garcia</string>
+</resources>
