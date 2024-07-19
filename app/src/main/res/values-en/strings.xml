@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News</string>
+    <string name="data">12/29/2021</string>
+    <string name="Titulo">Volatile Stock Exchange</string>
+    <string name="body">The Ibovespa operates, at 1:00 pm, down 0.38%, at 104,457 points.
+         The main index of the Brazilian stock market is impacted, mainly, by the performances
+         of American stock markets, which opened in an upward trend but began to fall after
+         the release of macroeconomic data. The yield curve rises, with inflation accelerating,
+         in block. DI contracts expiring in February 2023 rise by 60 basis points.
+         Those for February 2025, 109 basis points. Those for 2029, 47 basis points.
+         The commercial dollar also advanced, rising 0.57%, trading at R$5.672 both when purchasing
+         as for the sale. The future dollar is up 0.81%, at R$5.673.
+         The Brazilian stock market fell 0.80% earlier, but the fall slowed down after Petrobras
+         (<b>PETR3</b>;<b>PETR4</b>) started to rise slightly, following the price of oil.
+         WTI and Brent rise, respectively, 1.36%, to US$ 76.93, and 1%, to US$ 79.79,
+         having gained an upward trend after the US announced that its stock of
+         commodity fell by 3.576 million last week.
+    </string>
+    <string name="textButtonBack">Previous</string>
+    <string name="textButtonNext">Next</string>
+    <string name="Author">Renan Garcia</string>
+</resources>
